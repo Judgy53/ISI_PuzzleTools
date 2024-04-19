@@ -1,0 +1,6 @@
+/.mypy_cache
+/.vscode
+/7x8_standard.grid
+/7x8_standard_goal.grid
+/test.grid
+/test2.grid
